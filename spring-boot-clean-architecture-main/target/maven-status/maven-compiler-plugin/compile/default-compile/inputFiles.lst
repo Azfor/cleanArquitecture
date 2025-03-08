@@ -1,0 +1,16 @@
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\common\PersistenceAdapter.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\adapter\in\web\MoneyTransferController.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\adapter\out\persistence\AccountEntity.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\common\UseCase.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\application\port\out\LoadAccountPort.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\application\service\SendMoneyService.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\adapter\out\persistence\AccountMapper.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\adapter\out\persistence\SpringAccountRepository.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\common\WebAdapter.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\application\port\in\SendMoneyCommand.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\application\port\in\SendMoneyPort.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\Extra.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\adapter\out\persistence\AccountPersistenceAdapter.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\application\port\out\UpdateAccountPort.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\domain\Account.java
+Z:\SpringBoot\spring-boot-clean-architecture-main\src\main\java\com\sacavix\ca\moneytransfers\MoneytransfersApplication.java
